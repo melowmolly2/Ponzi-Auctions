@@ -1,5 +1,11 @@
 # 🛒 Hệ Thống Đấu Giá Trực Tuyến (Online Auction System)
-
+![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![JavaFX](https://img.shields.io/badge/JavaFX-Frontend-1565C0?style=for-the-badge)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Spring Boot CI](https://github.com/dhlw123/auctionbackendCS1/actions/workflows/ci.yml/badge.svg)](https://github.com/dhlw123/auctionbackendCS1/actions/workflows/ci.yml)
 ## 1. Mô tả ngắn gọn bài toán và phạm vi hệ thống
 Dự án là một hệ thống đấu giá trực tuyến hoạt động theo mô hình Client-Server [3], cho phép nhiều người dùng cùng tham gia cạnh tranh giá để mua sản phẩm trong một khoảng thời gian xác định [4, 5]. 
 Hệ thống phân quyền người dùng với 3 vai trò chính:
