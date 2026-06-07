@@ -21,7 +21,7 @@ Hệ thống phân quyền người dùng với 3 vai trò chính:
 
 ## 2. Công nghệ sử dụng và Yêu cầu cài đặt
 *   **Backend (Máy chủ):** Ngôn ngữ Java, Framework **Spring Boot**, Spring Data JPA, bảo mật JWT. Sử dụng công cụ build là **Gradle**.
-*   **Frontend (Máy khách):** Ngôn ngữ Java, **JavaFX** (sử dụng `.fxml` cho UI), thư viện Retrofit (`ApiClient`) để gọi RESTful API [10, 17-22]. Sử dụng công cụ build là **Maven** [22].
+*   **Frontend (Máy khách):** Ngôn ngữ Java, **JavaFX** (sử dụng `.fxml` cho UI), thư viện Retrofit (`ApiClient`) để gọi RESTful API. Sử dụng công cụ build là **Maven**.
 *   **Cơ sở dữ liệu:** SQLite.
 *   **Yêu cầu cài đặt:** Cài đặt Java Development Kit (JDK) phiên bản 17 trở lên.
 
@@ -60,7 +60,7 @@ Mở một terminal / command prompt khác tại thư mục gốc của frontend
     ```bash
     mvn javafx:run
     ```
-*(Để kiểm thử tính năng tranh giá đồng thời, hãy mở nhiều terminal khác nhau và chạy lặp lại lệnh trên để tạo nhiều cửa sổ Client cùng lúc [2])*
+*(Để kiểm thử tính năng tranh giá đồng thời, hãy mở nhiều terminal khác nhau và chạy lặp lại lệnh trên để tạo nhiều cửa sổ Client cùng lúc)*
 
 ## 5. Danh sách chức năng đã hoàn thành
 Hệ thống đã hoàn thiện xuất sắc toàn bộ các chức năng bắt buộc và các chức năng nâng cao theo đúng barem điểm [26-28]:
