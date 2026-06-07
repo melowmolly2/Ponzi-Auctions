@@ -1,4 +1,6 @@
 # 🛒 Ponzi Auctions - Hệ Thống Đấu Giá Trực Tuyến (Online Auction System)
+[backend](https://github.com/dhlw123/auctionbackendCS1)
+[frontend](https://github.com/EdwardCourtney/Hollow)
 ![Banner](assets/banner.png)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
