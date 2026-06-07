@@ -79,5 +79,5 @@ Hệ thống đã hoàn thiện xuất sắc toàn bộ các chức năng bắt 
 ## 6. Tài nguyên Báo cáo & Video Demo
 *(Giảng viên vui lòng truy cập các đường dẫn dưới đây để xem báo cáo kiến trúc và video chạy thực tế các chức năng phức tạp của hệ thống)*:
 
-*   **Báo cáo PDF:** `[Chèn Link Google Drive chứa file báo cáo PDF (tối đa 6 trang) vào đây]`
+*   **Báo cáo PDF:** [Link PDF](https://drive.google.com/file/d/1vbL_VqC0JPWRyRm3yM6QvHxwFpR2NNH6/view?usp=sharing)
 *   **Video Demo hệ thống (Dưới 4 phút):** [Link Video](https://drive.google.com/file/d/1nEZm-s0Cbj3N6QdFrHalJgr5wZXoLLvT/view)
