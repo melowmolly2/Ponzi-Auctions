@@ -1,4 +1,5 @@
-# 🛒 Hệ Thống Đấu Giá Trực Tuyến (Online Auction System)
+# 🛒 Ponzi Auctions - Hệ Thống Đấu Giá Trực Tuyến (Online Auction System)
+![Banner](assets/banner.png)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
